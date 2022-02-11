@@ -2,7 +2,7 @@
 #reemplazar los saltos de lineas alt 010
 #exportarlo csv limitados por ;
 
-nombre_archivo = "enero.csv"
+nombre_archivo = "C:/Users/02015/Desktop/Tools/enero.csv"
 with open(nombre_archivo, "r") as archivo:
     # Omitir el encabezado
     #next(archivo, None)
